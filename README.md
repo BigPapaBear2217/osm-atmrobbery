@@ -30,3 +30,8 @@ Config.RewardAccount = 'cash'     -- Account which is credited for Payouts.
 Config.RobberyTime = 5 -- Time a Player will get to Complete the Robbery IN MINUTES
 Config.Cooldown = 120 -- Cooldown Time Between Robberies IN MINUTES
 ```
+
+### CREDITS
+- Huge thanks to Ariz for all the TESTING work. 
+- Thanks to Laika for the IDEA and YT VIDEO. 
+- Thanks to ixTooT for providing a few resources. 
