@@ -1,1 +1,31 @@
-# osm-atmrobbery
+# QBUS X OSM | OSM - ATMROBBERY | Feature Rich ATM Robbery with Cooldowns, Timers, and more 
+
+### [DISCORD SERVER](https://discord.gg/jrNxkpVaJU)
+## Features 
+- An all new Minigame (from Meta_Libs) making ATM Robberies even harder. 
+- Cooldown to prevent too many Robberies in Short Time Period
+- Customizable Timer to Complete Robbery
+- `CONFIG.LUA` with lots of Config Vars to Change Script According to your need!
+- LOTS of More Stuff inside the Script.
+
+### SETUP 
+- **Script required `META_LIBS` to be also started. Download Both Resources from this Repository, and start both of them in your Server.CFG**
+- **CONFIG.LUA contains some important customisations. You can edit them as per need**
+
+### CONFIG.LUA
+```
+-- Police Settings:
+Config.RequiredPolice = 0				-- Required Police online to rob an ATM.
+
+-- Time Settings
+Config.OnlyNight = false      -- `true` will allow Players to Rob ATMS only during Night (12AM to 6AM)
+
+-- Reward Settings:
+Config.MinReward = 15000					-- Set minimum payout
+Config.MaxReward = 30000					-- Set maximum payout
+Config.RewardAccount = 'cash'     -- Account which is credited for Payouts.
+
+-- Other Settings:
+Config.RobberyTime = 5 -- Time a Player will get to Complete the Robbery IN MINUTES
+Config.Cooldown = 120 -- Cooldown Time Between Robberies IN MINUTES
+```
