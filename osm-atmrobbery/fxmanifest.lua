@@ -18,3 +18,6 @@ server_scripts {
     "server/server.lua"
 }
 
+dependencies {
+	'meta_libs'
+}
