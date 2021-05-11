@@ -5,7 +5,7 @@ games { 'gta5' }
 
 author 'OSMIUM#0001 | https://discord.io/osmfx'
 
-description 'ADVANCED ATM ROBBERIES | COOLDOWN | FLARES | TIMERS | POLICEALERTS | THRILLS :)'
+description 'ADVANCED ATM ROBBERY | COOLDOWN | FLARES | TIMERS | POLICEALERTS | THRILLS :)'
 
 client_scripts {
     "config.lua",
