@@ -1,6 +1,7 @@
 # QBUS X OSM | OSM - ATMROBBERY | Feature Rich ATM Robbery with Cooldowns, Timers, and more 
 
 ### [DISCORD SERVER](https://discord.gg/jrNxkpVaJU)
+
 ## Features 
 - An all new Minigame (from Meta_Libs) making ATM Robberies even harder. 
 - Cooldown to prevent too many Robberies in Short Time Period
@@ -11,7 +12,7 @@
 ### SETUP 
 - **Script required `META_LIBS` to be also started. Download Both Resources from this Repository, and start both of them in your Server.CFG**
 - **CONFIG.LUA contains some important customisations. You can edit them as per need**
-
+- Drill is to be used using ARROW KEYS (Hint)
 ### CONFIG.LUA
 ```
 -- Police Settings:
