@@ -36,3 +36,8 @@ Config.Cooldown = 120 -- Cooldown Time Between Robberies IN MINUTES
 - Huge thanks to Ariz for all the TESTING work. 
 - Thanks to Laika for the IDEA and YT VIDEO. 
 - Thanks to ixTooT for providing a few resources. 
+
+### Known Issues 
+- Timer text disappears on going a bit far from ATM. (Not a Bug, but happens cuz I wanted to optimize the script by reducing loops)
+- Not all ATMS are supported, Check CONFIG.LUA for supported ATM Locations.
+
