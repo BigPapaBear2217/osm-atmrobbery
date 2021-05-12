@@ -1,7 +1,7 @@
 # QBUS X OSM | OSM - ATMROBBERY | Feature Rich ATM Robbery with Cooldowns, Timers, and more 
 
 ### [DISCORD SERVER](https://discord.gg/jrNxkpVaJU)
-### [TEASER](https://www.youtube.com/watch?v=cVMv7qpIxlM) - Not the Entire Preview, I want you guys to Download and try it.
+### [TEASER](https://www.youtube.com/watch?v=fFSzehbzQfI) - Not the Entire Preview, I want you guys to Download and try it.
 
 ## Features 
 - An all new Minigame (from Meta_Libs) making ATM Robberies even harder. 
